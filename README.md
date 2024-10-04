@@ -23,7 +23,7 @@ AdventureGameOOP/
 
 ## Getting Started
 ### Prerequisites
-- Python 3.x installed on your computer
+- Python 3.x installed on your computerx
 - A text editor or IDE (like PyCharm, VSCode etc.)
 
 ### How to run the game
